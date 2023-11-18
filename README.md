@@ -1,6 +1,4 @@
-![image](https://github.com/vuppulasaikrishna/Beyond-Statistics-UnveilingT20-World-Cup-through-Data-Analysis/assets/101575175/fd550e94-7906-4a5a-ae7e-4744225032b2)# Beyond-Statistics-UnveilingT20-World-Cup-through-Data-Analysis
-Beyond Statistics: Unveiling the Best Playing 11 for the 2022 T20 World Cup through Data Analysis
-
+# Beyond-Statistics-UnveilingT20-World-Cup-through-Data-Analysis
 Here is a more detailed overview of the T20 World Cup Data Analysis project, the revised best playing 11:
 
 **1. Overview of the Problem**
